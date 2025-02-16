@@ -8,6 +8,14 @@ On this page you'll find all the practical work I did during my studies at HEIG-
   - [ISD](#isd)
   - [PRG1](#prg1)
   - [SYL](#syl)
+- [Semester 2](#semester-2)
+  - [ARO](#aro)
+  - [ASD](#asd)
+  - [PRG2](#prg2)
+- [Semester 3](#semester-3)
+  - [BDR](#bdr)
+  - [DAI](#dai)
+  - [POO](#poo)
 - ...
 
 :warning: Content will be updated at the end of each semester !
@@ -31,3 +39,38 @@ On this page you'll find all the practical work I did during my studies at HEIG-
 - [Practical work 2 - ALU](https://github.com/HEIG-VD-Edison-Sahitaj/syl/tree/main/practical-work-2)
 - [Practical work 3 - Chenillard](https://github.com/HEIG-VD-Edison-Sahitaj/syl/tree/main/practical-work-3)
 - [Practical work 4 - Automated arm](https://github.com/HEIG-VD-Edison-Sahitaj/syl/tree/main/practical-work-4)
+
+## Semester 2
+### [ARO](https://github.com/HEIG-VD-Edison-Sahitaj/aro)
+- [Practical work 1 - Fetch](https://github.com/HEIG-VD-Edison-Sahitaj/aro/tree/main/practical-work-1)
+- [Practical work 2 - Decode-Memory](https://github.com/HEIG-VD-Edison-Sahitaj/aro/tree/main/practical-work-2)
+- [Practical work 3 - Pipeline](https://github.com/HEIG-VD-Edison-Sahitaj/aro/tree/main/practical-work-3)
+
+### [ASD](https://github.com/HEIG-VD-Edison-Sahitaj/asd)
+- [Practical work 1 - Complexity](https://github.com/HEIG-VD-Edison-Sahitaj/asd/tree/main/practical-work-1)
+- [Practical work 2 - Variable-capacity circular buffer](https://github.com/HEIG-VD-Edison-Sahitaj/asd/tree/main/practical-work-2)
+- [Practical work 3 - AVL tree](https://github.com/HEIG-VD-Edison-Sahitaj/asd/tree/main/practical-work-3)
+
+### [PRG2](https://github.com/HEIG-VD-Edison-Sahitaj/prg2)
+- [Practical work 1 - Grades and Battleship](https://github.com/HEIG-VD-Edison-Sahitaj/prg2/tree/main/practical-work-1)
+- [Practical work 2 - Better grades](https://github.com/HEIG-VD-Edison-Sahitaj/prg2/tree/main/practical-work-2)
+- [Practical work 3 - Battleship and Hangman](https://github.com/HEIG-VD-Edison-Sahitaj/prg2/tree/main/practical-work-3)
+- [Practical work 4 - Images](https://github.com/HEIG-VD-Edison-Sahitaj/prg2/tree/main/practical-work-4)
+
+## Semester 3
+### [BDR](https://github.com/HEIG-VD-Edison-Sahitaj/bdr)
+- [Practical work 1 - EA](https://github.com/HEIG-VD-Edison-Sahitaj/bdr/tree/main/practical-work-1)
+- [Practical work 2 - MR, DDL and DML](https://github.com/HEIG-VD-Edison-Sahitaj/bdr/tree/main/practical-work-2)
+- [Practical work 3 - SQL](https://github.com/HEIG-VD-Edison-Sahitaj/bdr/tree/main/practical-work-3)
+
+### [DAI](https://github.com/HEIG-VD-Edison-Sahitaj/dai)
+- [Practical work 1 - File IO](https://github.com/HEIG-VD-Edison-Sahitaj/prg2/tree/main/practical-work-1)
+- [Practical work 2 - Protocole implementation](https://github.com/HEIG-VD-Edison-Sahitaj/prg2/tree/main/practical-work-2)
+- [Practical work 3 - SMTP](https://github.com/HEIG-VD-Edison-Sahitaj/prg2/tree/main/practical-work-3)
+- [Practical work 4 - Web infrastucture](https://github.com/HEIG-VD-Edison-Sahitaj/prg2/tree/main/practical-work-4)
+
+### [POO](https://github.com/HEIG-VD-Edison-Sahitaj/poo)
+- [Practical work 1 - UML](https://github.com/HEIG-VD-Edison-Sahitaj/poo/tree/main/practical-work-1)
+- [Practical work 2 - Matrix](https://github.com/HEIG-VD-Edison-Sahitaj/poo/tree/main/practical-work-2)
+- [Practical work 3 - Calculator](https://github.com/HEIG-VD-Edison-Sahitaj/poo/tree/main/practical-work-3)
+- [Practical work 4 - Chess](https://github.com/HEIG-VD-Edison-Sahitaj/poo/tree/main/practical-work-4)
